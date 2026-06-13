@@ -6,22 +6,7 @@
 > Bank of India + IIT Hyderabad | Prize Pool: Rs. 20 Lakhs  
 > An Initiative of Govt. of India, Ministry of Finance
 
----
-
-## 👥 Team
-
-| Role | Name |
-|---|---|
-| **Team Lead + ML Engineer** | Ashutosh |
-| **Dashboard Developer** | Diksha |
-| **Graph Analytics Engineer** | Divyansh Pratap Singh |
-| **Data + Integration Engineer** | Garvit Agrawal |
-
-**Institution:** GL Bajaj Group of Institutions, Mathura (CSE, AI/ML Specialization)
-
-**GitHub:** https://github.com/dikshaashadeep-ship-it/fraudlens-hackathon
-
----
+--- 
 
 ## 🎯 Problem Statement
 
@@ -157,6 +142,8 @@ streamlit run app.py
 
 **Institution:** GL Bajaj Group of Institutions, Mathura (CSE, AI/ML Specialization)
 
+**GitHub:** https://github.com/dikshaashadeep-ship-it/fraudlens-hackathon
+
 ---
 
 ## 📝 Detailed Solution Approach
@@ -253,16 +240,16 @@ fraudlens-hackathon/
 
 ---
 
-## 📅 Project Timeline
+## 🗓️ Project Timeline
 
-| Phase | Duration | Deliverable |
-|---|---|---|
-| **Week 1** | Now – 10 June | Register, form team, GitHub repo, sample CSV dataset |
-| **Week 2** | 10–17 June | Pandas cleaning, risk scoring logic, basic Streamlit dashboard |
-| **Week 3** | 17–24 June | ML model (Isolation Forest), NetworkX graph, module integration |
-| **Week 4** | 24 June–1 July | Gemini API explanations, fraud timeline, UI polish |
-| **Week 5–7** | July–15 Aug | Testing, bug fixes, PPT + architecture diagram, demo video |
-| **Final Week** | Before 27 Aug | Full rehearsal, final testing, IIT Hyderabad Grand Finale |
+| Phase | Deliverable |
+|-------|-------------|
+| Phase 1 — Registration & Setup | Register on portal, form team, assign roles, GitHub repo, sample CSV dataset |
+| Phase 2 — Data Processing | Pandas data cleaning, risk scoring logic, basic Streamlit dashboard |
+| Phase 3 — ML & Graph Analytics | Train ML model (Isolation Forest), build NetworkX graph, module integration |
+| Phase 4 — AI Integration & UI | Integrate Gemini API explanations, fraud timeline feature, UI polish |
+| Phase 5 — Testing & Documentation | Full system testing, bug fixes, PPT + architecture diagram, demo video |
+| Phase 6 — Final Submission | Final rehearsal, testing, prepare for IIT Hyderabad Grand Finale (27–28 Aug) |
 
 ---
 
